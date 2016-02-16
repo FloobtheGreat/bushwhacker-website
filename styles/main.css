@@ -1,0 +1,59 @@
+@import url(https://fonts.googleapis.com/css?family=Alegreya);
+/* Space out content a bit */
+body {
+  padding-top: 20px;
+  background: #b1f6cb;  
+  background-image: url("../img/dark_embroidery.png");
+  margin-bottom: 120px;
+  
+}
+
+@media screen and (min-width: 600px) {
+    nav{
+        float:left;
+        width: 25%;
+    }
+    section {
+        margin-left: 25%;
+}
+@media screen and (max-width: 599px) {
+    nav li {
+        display: inline;
+    }
+}
+
+.container {
+    max-width: 900px;
+}
+
+.nav {
+    max-width: 250px;
+    float: left;
+    background-color: ghostwhite;
+    border-radius: 10px;
+}
+.title {
+    max-width: 650px;
+    background-color: ghostwhite;
+    border-radius: 10px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.text-cstm {
+    color: #999;
+    font-family: 'Alegreya', serif;
+}
+

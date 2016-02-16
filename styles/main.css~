@@ -1,0 +1,45 @@
+@import url(https://fonts.googleapis.com/css?family=Alegreya);
+/* Space out content a bit */
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background: #b1f6cb;  
+  background-image: url("../img/dark_embroidery.png");
+  
+}
+
+.container {
+    max-width: 900px;
+}
+
+.nav {
+    max-width: 250px;
+    float: left;
+    background-color: ghostwhite;
+    border-radius: 10px;
+}
+.title {
+    max-width: 650px;
+    background-color: ghostwhite;
+    border-radius: 10px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.text-cstm {
+    color: #999;
+    font-family: 'Alegreya', serif;
+}
+
