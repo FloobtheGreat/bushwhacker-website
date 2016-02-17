@@ -8,35 +8,12 @@ body {
   
 }
 
-@media screen and (min-width: 600px) {
-    nav{
-        float:left;
-        width: 25%;
-    }
-    section {
-        margin-left: 25%;
+.header {
+    display: inline;
 }
-@media screen and (max-width: 599px) {
-    nav li {
-        display: inline;
-    }
-}
-
-.container {
-    max-width: 900px;
-}
-
-.nav {
-    max-width: 250px;
+.header .nav {
+    display: inline-block;
     float: left;
-    background-color: ghostwhite;
-    border-radius: 10px;
-}
-.title {
-    max-width: 650px;
-    background-color: ghostwhite;
-    border-radius: 10px;
-    
 }
 
 
